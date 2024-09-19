@@ -1,0 +1,10 @@
+add retrieving of todos using pagination
+add more unit test to increase coverage
+add regex to check the user email and password and validate them
+
+front end:
+create a mock up
+create banner with "add todo" and logout buttons
+create a new pop up to edit existing todos
+use the ngRx store in application
+add pop up with success notification
